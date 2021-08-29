@@ -1,0 +1,25 @@
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\Smart Study.csprojAssemblyReference.cache
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Login.resources
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Main.resources
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\Smart Study.csproj.GenerateResource.cache
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\Smart Study.csproj.CoreCompileInputs.cache
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.exe
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\WindowsFormsApp1.pdb
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe.config
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.exe
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\WindowsFormsApp1.pdb
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\MimeTypesMap.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Newtonsoft.Json.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\SimpleHTTP.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.Logging.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\Newtonsoft.Json.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\SimpleHTTP.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\bin\x64\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\85751\Desktop\Projects\smart study\src\desktop\Smart Study Desktop\WindowsFormsApp1\obj\x64\Release\Smart Study.csproj.CopyComplete

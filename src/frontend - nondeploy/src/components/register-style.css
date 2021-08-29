@@ -1,0 +1,93 @@
+body {
+  background-color: white;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.header {
+  color: #61c7c8;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 23px;
+  padding-bottom: 20px;
+}
+
+.register {
+  width: 40%;
+  margin: 0 auto;
+  background: #bde2ddc4;
+  padding: 40px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 700px) {
+  .register {
+    width: 100%;
+    padding: 30px;
+  }
+}
+
+label {
+  width: 100%;
+  color: rgb(105, 93, 93);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  border-radius: 20px;
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+  padding-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  color: #464646;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  outline: none;
+  margin-top: 5px;
+  box-sizing: border-box;
+  font-weight: 100;
+  border: none;
+  margin-bottom: 25px!important;
+  margin-top: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+form.form {
+  padding-top: 40px;
+}
+
+.pass {
+  width: 75%;
+  color: #464646;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  outline: none;
+  box-sizing: border-box;
+  border: 1px solid #5cb0a4;
+  margin-left: 46px;
+  margin-bottom: 27px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#registerButton{
+  color: white;
+  letter-spacing: 2px;
+  font-size: 15px;
+}
+
+.btn-grad a{
+  color: white!important;
+
+}
+
+

@@ -1,0 +1,36 @@
+
+
+.main-line{
+    border-radius: 1em;
+}
+
+
+
+.linechart-container{
+
+    margin-top: 50px;
+
+}
+
+
+.instruct3{
+    color: rgb(105, 93, 93);
+    font-weight: 200;
+    font-size: 17px;
+}
+
+.chart-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.scores-wrapper{
+    text-align: center;
+}
+
+.text2{
+    font-weight: 200;
+}

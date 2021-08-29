@@ -1,0 +1,20 @@
+{
+  "name": "Smart Study Chrome Extension",
+  "description": "Analyzes your web usage for Smart Study",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "background"
+  ],
+  "icons": { "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png" },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": "script-src 'sha256-Lfzngst3kIHHVZ8byHG9iMhNeysf9C456Vi9g65tNxw='; object-src 'self'",
+  "externally_connectable": {
+    "matches": ["https://smart-study-webapp.herokuapp.com/"]
+  }
+}

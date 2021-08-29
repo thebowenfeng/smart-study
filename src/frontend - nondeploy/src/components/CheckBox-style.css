@@ -1,0 +1,55 @@
+.checkbox:nth-child(1){
+    margin-top: 20px;
+}
+
+
+.checkbox input{
+    margin-bottom: 0px!important;
+    width: 13px!important;
+  height: 13px!important;
+  padding: 0;
+margin-right: 10px;
+    ;
+}
+
+.save-btn{
+    background: #61c7c8;
+    border: none;
+    padding: 10px 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 15px;
+    color: white;
+    margin-top: 20px;
+}
+
+.save-btn:hover{
+    background: #dbf6f7;
+    padding: 10px 30px;
+transition: all 0.5s;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 15px;
+    color: #61c7c8;
+}
+
+
+
+input[type=checkbox] {
+    width: 30px;
+    height: 30px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-size: 27px;
+  }
+  
+  input[type=checkbox]:after {
+    content: " ";
+    background-color: #9FFF9D;
+    display: inline-block;
+    visibility: visible;
+  }
+  
+  input[type=checkbox]:checked:after {
+    background-color: #9FFF9D;
+  }

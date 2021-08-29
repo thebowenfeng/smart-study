@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  padding: 10px;
+  padding-top: 20px;
+
+  font-family: "Poppins", sans-serif;
+}
+
+.bold{
+  font-weight: 800;
+}
+label.logo {
+  color: #61c7c8;
+  font-size: 35px;
+  line-height: 80px;
+  padding: 0 25px;
+  font-weight: 100;
+}
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+}
+nav ul li a {
+  color: white;
+  font-size: 17px;
+  padding: 7px 13px;
+  border-radius: 3px;
+}
+
+.checkbtn {
+  font-size: 30px;
+  color: white;
+  float: right;
+  line-height: 80px;
+  margin-right: 40px;
+  cursor: pointer;
+  display: none;
+}
+#check {
+  display: none;
+}
+@media (max-width: 952px) {
+  label.logo {
+    font-size: 20px;
+  }
+  nav ul li a {
+    font-size: 16px;
+  }
+}
+@media (max-width: 858px) {
+  .checkbtn {
+    display: block;
+  }
+
+  .logo-image{
+    display: none;
+
+  }
+
+  .timer{
+    margin-top: 0;
+  }
+
+  .nav-links{
+    flex-direction: column;
+    z-index: 999;
+  }
+
+  ul {
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: #bde2dd;
+    top: 80px;
+    left: -100%;
+    text-align: center;
+    transition: all 0.5s;
+  }
+  nav ul li {
+    display: block;
+    margin: 50px 0;
+    line-height: 30px;
+  }
+  nav ul li a {
+    font-size: 20px;
+  }
+
+  #check:checked ~ ul {
+    left: 0;
+  }
+}
+
+nav {
+  font-size: 18px;
+  display: flex;
+  padding-left: 0.2rem;
+  padding-top: 20px;
+  height: 50px;
+}
+
+.nav-links {
+  list-style: none;
+  width: 80%;
+  height: 100%;
+  align-items: center;
+  margin-left: auto;
+  padding-top: 10px;
+  letter-spacing: 2px;
+  font-weight: 400;
+
+}
+
+a{
+  color: white!important;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  font-size: 16px;
+  color: rgb(105, 93, 93)!important;
+}
+
+
+ul li {
+  list-style: none;
+  text-decoration: none;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+nav a {
+  background-image: linear-gradient(
+          to right,
+          rgba(255, 255, 255, 0) 50%,
+          #5cb0a373 20%
+  );
+
+  background-position: -0% 0;
+  background-size: 200% auto;
+  padding: 10px;
+  color: #222;
+  font-size: 1.75em;
+  line-height: 1.15em;
+  text-decoration: none;
+  transition: background-position 0.5s ease-out;
+}
+nav a:hover {
+  background-position: -99.99% 0;
+}
